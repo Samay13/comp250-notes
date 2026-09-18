@@ -1,15 +1,20 @@
-# Title
+# Note 8
 
-Jaylon Johnson, Tyrique Stevenson, and the Cornerback Unit
+## Title
+Perimeter Defense and Cornerback Coverage
 
-# Summary
+## Quotation
+> "Cornerbacks provide lockdown coverage on the outside, using fluid hip movement and reactive quickness to blanket elite wideouts and disrupt timing routes."
 
-An analysis of perimeter coverage, slot stability, and pass-breakup capabilities for the 2026 season.
+## Citation & Point Locator
+* **Source Citation:** Chicago Bears Roster Grades. YouTube video, https://www.youtube.com/watch?v=tZaoHdBiKG4, retrieved September 17, 2026.
+* **Point Locator:** Timestamp 23:50
 
-# Evidence
+## Commentary
+The cornerback position is widely regarded as one of the most demanding individual assignments in professional sports, requiring extraordinary athletic traits and mental resilience to recover quickly after giving up a play. Shutting down the opponent's primary passing option allows a defense to play more aggressive coverages and allocate defensive attention elsewhere on the field. Cornerbacks must master various techniques, including press-man coverage to disrupt receiver releases at the line of scrimmage and off-zone coverage to keep plays in front of them and limit yards after catch. Depth at this position is equally crucial because injuries on the perimeter can quickly expose a defense to explosive vertical passing attacks.
 
-The Bears' secondary relies on Pro Bowl cornerback Jaylon Johnson alongside outside cover man Tyrique Stevenson and nickel cornerback Kyler Gordon to lock down opposing wide receivers.
-
-# Citation
-
-Chicago Bears Roster Grades, YouTube, https://www.youtube.com/watch?v=tZaoHdBikG4, Retrieved September 17, 2026.
+## Keywords
+* cornerback
+* coverage
+* perimeter
+* lockdown
