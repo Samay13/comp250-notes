@@ -1,4 +1,7 @@
-# 1. Caleb Williams and the Quarterback Room
+# Note 1
+
+## Title
+Caleb Williams and MVP?
 
 ## Quotation
 > "When is the last time you can remember the Bears' quarterback room being a top-three position group on the team? That's the Caleb Williams effect."

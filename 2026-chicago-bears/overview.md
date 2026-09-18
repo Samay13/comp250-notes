@@ -1,4 +1,3 @@
-??? from here until ???END lines may have been inserted/deleted
 # Reflective Overview: 2026 Chicago Bears Roster Analysis
 
 ## Questions that Organized my Research
