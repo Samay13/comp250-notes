@@ -1,4 +1,4 @@
-i# 1. Caleb Williams and the Quarterback Room
+# 1. Caleb Williams and the Quarterback Room
 
 ## Quotation
 > "Caleb Williams enters his prime years as the definitive franchise anchor, displaying elite arm talent and improved pocket presence to elevate the entire offense."
