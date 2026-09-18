@@ -1,16 +1,19 @@
+??? from here until ???END lines may have been inserted/deleted
 # Reflective Overview: 2026 Chicago Bears Roster Analysis
 
-## Research Questions and Focus Areas
-This research collection was structured around a central evaluative question: *How do individual position group capabilities collectively determine the ceiling, competitive readiness, and strategic identity of the Chicago Bears for the 2026 NFL season?* Rather than examining the team through a generalized lens, my research was driven by the need to understand the micro-level dependencies between units—specifically, how trench stability on both sides of the ball directly unlocks or constrains elite skill-position talent. The primary focus moved fluidly from the offensive foundation outward, examining leadership and decision-making under center before expanding across perimeter weapons, protection units, and defensive front-seven execution.
+## Questions that Organized my Research
+* How do the Chicago Bears' position groups rank from the best to the worst heading into the 2026/27 season?
+* What changes were made to the rosters and how do the depth charts look?
+* How do the changes compare to previous seasons?
 
-## Search Procedures and Source Movement
-My research procedures centered on analyzing comprehensive video evaluations of roster breakdowns, specifically leveraging expert scouting assessments from the *Chicago Bears Roster Grades* presentation. The movement of my attention followed a deliberate tactical progression: beginning with the quarterback as the ultimate operational anchor, transitioning outward to supporting skill groups (running backs, wide receivers, and tight ends), moving inward to the trenches (offensive and defensive lines), and finally assessing the second- and third-level defensive layers (linebackers, cornerbacks, free safeties, and strong safeties). This progression mirrored the hierarchical structure of football team-building, where core spine positions establish the floor while specialized unit depth defines the ultimate championship ceiling.
+## Sources that were useful and Search-procedures
+* **Primary Source:** Brendan Sugrue's *Bears Wire* article, "Ranking 2026 Chicago Bears position groups from best to worst" (USA Today, July 16, 2026)[cite: 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], which provided the foundational evaluations for all ten research notes.
+* **Search Procedures:** Breaking up the evaluation by sections of position groups to find statistics, quotes, and point locators for each group.
 
-## Inter-Note Connections and Emerging Insights
-A critical pattern that emerged across individual notes was the deep interconnection between trench performance and secondary coverage integrity. For instance, notes highlighting the offensive line (Note 5) directly correlate with quarterback development and pocket presence (Note 1), demonstrating that spatial awareness is heavily dependent on protection consistency. Similarly, defensive line disruption (Note 6) directly amplifies the effectiveness of lockdown cornerbacks (Note 8) and deep-third range safety play (Note 9). These thematic cross-links reveal that football rosters do not function in isolation; systemic success relies entirely on complementary unit cohesion.
+## Movement of Attention
+* **Part 1 (Offense):** The offense was first off the be analyzed. I went through the QB, to RB, WR, TE, and then OL. I broke up each section by position group for the offense where I explored the past couple seasons and viewed how the offense progressed from past seasons to now.
+* **Part 2 (Defense):** The defense was next. I went through the DL, to LB, CB, and then S. I broke up each section again by position for the defense where I explored the changes throughout the past couple of seasons and how the team has developed.
+* **Part 3 (Special Teams):** The last part is the special teams in which I kept as one group for the last one. I was able to break it up by kicker and punter as they both have different roles.
 
-## Generative AI Disclosure and Justification
-In accordance with course guidelines, I disclose the use of generative AI tools to assist in structuring, refining, and polishing this note collection and its reflective overview. Generative AI was utilized as an editorial and organizational collaborator to help ensure strict adherence to the assignment rubric, maintain consistent academic phrasing in the commentaries, and format Chicago-style citations and Markdown structures. All core thematic arguments, structural themes, and team-specific focus areas originated entirely from my own research design and conceptual framework. The AI served strictly to augment efficiency, verify formatting consistency, and polish analytical clarity rather than replace original inquiry.
-
-## Final Questions
-At the conclusion of this research process, several open-ended questions remain: How will emerging rookie contributors handle the physical attrition of an extended 17-game schedule? Furthermore, how adaptable will the coaching staff's schematic philosophy be if injuries force heavy rotations across the offensive line and secondary units? These questions provide a clear roadmap for ongoing evaluation as the season progresses.
+## Use of AI
+* AI was typically used to help break apart information to sections that were easier to read, to help organize and cite sources, to help calculate frequencies and point locators, and to help me remember some functions on the command line.

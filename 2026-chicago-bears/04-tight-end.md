@@ -1,20 +1,20 @@
 # Note 4
 
 ## Title
-Tight End Flexibility and Red-Zone Efficiency
+Tight End Dominance and Flexibility
 
 ## Quotation
-> "Tight ends provide a crucial hybrid dimension, capable of sealing the edge in the run game while acting as dangerous mismatches against linebackers and safeties in the passing game."
+> "The Bears were able to manhandle defenses with their two and three tight end sets in 2025, and now that position looks even better going into 2026."
 
 ## Citation & Point Locator
-* **Source Citation:** Chicago Bears Roster Grades. YouTube video, https://www.youtube.com/watch?v=tZaoHdBiKG4, retrieved September 17, 2026.
-* **Point Locator:** Timestamp 09:10
+* **Source Citation:** Sugrue, Brendan. "Ranking 2026 Chicago Bears position groups from best to worst." *Bears Wire*, USA Today, July 16, 2026.
+* **Point Locator:** Section 1
 
 ## Commentary
-The modern tight end is often considered the ultimate weapon of deception in an offensive playbook because their presence on the field does not telegraph whether the play will be a run or a pass. A tight end who can block effectively as an inline extension of the offensive line while also running complex routes down the seam forces defensive coordinators into structural nightmares, as traditional linebackers often lack the fluidity to cover them and safeties lack the size to tackle them in space. This dual-threat capability is especially magnified inside the red zone, where compressed field conditions place a premium on body control, reliable hands, and creative mismatches. Consequently, a strong tight end group stabilizes both protection schemes and scoring efficiency.
+The bears have two amazing tight ends to fill in the position. Veteran Cole Kmet matched up with 2025 drafted Colston Loveland. These two tight ends combine to make one of the best tight end duos in the league. They both fill in the roles of blocking and catching seamlessly. Cole Kmet has always been a valuable asset to the bears. And now, Colston Loveland can learn from the veteran to become possibly one of the best tight ends in the league. The future with these tight ends is scary and the potential for young Colston Loveland is to the sky. 
 
 ## Keywords
 * tight end
 * hybrid
-* mismatch
-* red-zone
+* duo
+* future

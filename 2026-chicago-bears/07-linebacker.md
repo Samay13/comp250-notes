@@ -1,20 +1,20 @@
 # Note 7
 
 ## Title
-Linebacker Range and Defensive Communication
+Linebacker Altercations and Development
 
 ## Quotation
-> "The linebacker core anchors the center of the defense, combining sideline-to-sideline tackling range with sharp diagnostic skills to neutralize both the run and short-passing games."
+> "A proud position in the franchise's history, the 2026 linebacking corps doesn't feature perennial Pro Bowl players or exciting prospects."
 
 ## Citation & Point Locator
-* **Source Citation:** Chicago Bears Roster Grades. YouTube video, https://www.youtube.com/watch?v=tZaoHdBiKG4, retrieved September 17, 2026.
-* **Point Locator:** Timestamp 20:05
+* **Source Citation:** Sugrue, Brendan. "Ranking 2026 Chicago Bears position groups from best to worst." *Bears Wire*, USA Today, July 16, 2026.
+* **Point Locator:** Section 9
 
 ## Commentary
-Linebackers serve as the literal quarterbacks of the defensive side of the ball, responsible for relaying play calls, adjusting alignments pre-snap, and quarterbacking run fits in real-time. In today's open-field NFL, traditional downhill thumper linebackers have evolved into hybrid athletes who must possess elite lateral agility and pass-coverage skills to match elite tight ends and running backs out of the backfield. Their ability to read keys quickly and fill gaps decisively prevents moderate gains from turning into explosive house calls. Strong linebacker play bridges the gap between the defensive line up front and the secondary downfield, ensuring cohesive unit integrity across every defensive package.
+The bears are historically known for having some of the greatest linebackers. From Dick Butkus to Brian Urlacher, there has typically always been a big name at that position. Last year the bears had a great linebacker duo of Termaine Edmunds and TJ Edwards. Over the offseason, Tremaine had been shipped off the the New York Giants and TJ Edwards is still on the bears but is coming off from broken fibula in which he injured last year. To somewhat replace Tremaine, the bears acquired Devin Bush from Cleveland Browns who seems to look hopeful throughout the last year. Bush and Edwards will become the primary duo throughout the year, but alongside the bears defensive coordinator, Dennis Allen, the linebackers will be put to good use and hopefully will stay consistent this year.
 
 ## Keywords
 * linebacker
-* range
-* communication
-* tackling
+* injuries
+* retooling
+* defense

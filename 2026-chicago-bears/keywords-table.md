@@ -1,41 +1,38 @@
 # Keyword Frequency Table
 
-| Keyword | Frequency (Number of Notes) |
-| :--- | :---: |
-| **development** | 1 |
-| **franchise anchor** | 1 |
-| **pocket presence** | 1 |
-| **quarterback** | 1 |
-| **backfield** | 1 |
-| **play-action** | 1 |
-| **rushing** | 1 |
-| **versatility** | 2 |
-| **receiver** | 1 |
-| **route-running** | 1 |
-| **secondary** | 2 |
-| **speed** | 1 |
-| **hybrid** | 1 |
-| **mismatch** | 1 |
-| **red-zone** | 1 |
-| **tight end** | 1 |
-| **offensive line** | 1 |
-| **protection** | 1 |
-| **stability** | 1 |
-| **trenches** | 1 |
-| **defensive line** | 1 |
-| **disruption** | 1 |
-| **pass-rush** | 1 |
-| **pressure** | 1 |
-| **communication** | 1 |
-| **linebacker** | 1 |
-| **range** | 2 |
-| **tackling** | 1 |
-| **cornerback** | 1 |
-| **coverage** | 1 |
-| **lockdown** | 1 |
-| **perimeter** | 1 |
-| **centerfielder** | 1 |
-| **free safety** | 1 |
-| **box safety** | 1 |
-| **physicality** | 1 |
-| **strong safety** | 1 |
+| Keyword | Frequency (Number of Notes) | Associated Notes |
+| :--- | :---: | :--- |
+| **backfield** | 1 | Note 2[cite: 6] |
+| **coaching** | 1 | Note 1[cite: 5] |
+| **consistency** | 1 | Note 10[cite: 14] |
+| **cornerback** | 1 | Note 8[cite: 13] |
+| **defense** | 1 | Note 7[cite: 12] |
+| **defensive line** | 1 | Note 6[cite: 10] |
+| **depth** | 2 | Note 3, Note 8[cite: 7, 13] |
+| **draft** | 1 | Note 9[cite: 14] |
+| **duo** | 2 | Note 2, Note 4[cite: 6, 8] |
+| **free agenncy** | 1 | Note 9[cite: 14] |
+| **free agents** | 1 | Note 6[cite: 10] |
+| **foundation** | 1 | Note 5[cite: 9] |
+| **future** | 2 | Note 1, Note 4[cite: 5, 8] |
+| **hopeful** | 1 | Note 6[cite: 10] |
+| **hybrid** | 1 | Note 4[cite: 8] |
+| **improvement** | 3 | Note 1, Note 5, Note 6[cite: 5, 9, 10] |
+| **injuries** | 2 | Note 7, Note 8[cite: 12, 13] |
+| **kicker** | 1 | Note 10[cite: 14] |
+| **linebacker** | 1 | Note 7[cite: 12] |
+| **offensive line** | 1 | Note 5[cite: 9] |
+| **playstyles** | 1 | Note 3[cite: 7] |
+| **potential** | 1 | Note 3[cite: 7] |
+| **protect** | 1 | Note 5[cite: 9] |
+| **punter** | 1 | Note 10[cite: 14] |
+| **quarterback** | 1 | Note 1[cite: 5] |
+| **rebound** | 1 | Note 8[cite: 13] |
+| **retooling** | 1 | Note 7[cite: 12] |
+| **rhythm** | 1 | Note 2[cite: 6] |
+| **receiver** | 1 | Note 3[cite: 7] |
+| **rushing** | 1 | Note 2[cite: 6] |
+| **safety** | 1 | Note 9[cite: 14] |
+| **secondary** | 1 | Note 9[cite: 14] |
+| **special teams** | 1 | Note 10[cite: 14] |
+| **tight end** | 1 | Note 4[cite: 8] |

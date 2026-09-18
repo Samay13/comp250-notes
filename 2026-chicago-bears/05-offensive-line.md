@@ -4,17 +4,17 @@
 The Trenches: Offensive Line Stability
 
 ## Quotation
-> "The offensive line features veteran anchors alongside rising young tackles, providing crucial protection and run-blocking execution to establish stability in the trenches."
+> "All three played pivotal roles in Williams' sack totals plummeting from 68 to 24, as well as the top-five rushing attack."
 
 ## Citation & Point Locator
-* **Source Citation:** Chicago Bears Roster Grades. YouTube video, https://www.youtube.com/watch?v=tZaoHdBiKG4, retrieved September 17, 2026.
-* **Point Locator:** Timestamp 12:45
+* **Source Citation:** Sugrue, Brendan. "Ranking 2026 Chicago Bears position groups from best to worst." *Bears Wire*, USA Today, July 16, 2026.
+* **Point Locator:** Section 2
 
 ## Commentary
-Football games are ultimately won or lost in the trenches, making the offensive line the literal bedrock of any successful offensive system. Regardless of how talented a quarterback or wide receiver corps might be, an unstable line that surrenders immediate interior pressure or misses edge blocks will render even the most sophisticated playbook ineffective. Establishing chemistry and communication among linemen is a slow, meticulous process that requires veteran leadership alongside athletic versatility to handle stunts, blitzes, and elite pass-rushers. Strong run-blocking execution further builds physical identity, wearing down opposing front-sevens over four quarters and creating sustainable drives that control time of possession.
+The bears offensive line has transformed over the past couple of years. In the couple of years prior to 2024, the bears were known for their awful O-Line as Caleb Williams and past QB Justin Fields were known to have some of the highest sack rates in the league. The bears front office had a plan though. They were able to acquire Joe Thuney and then the increasing efforts from Darnell Wright show that whenever the bears have a good O-Line, the team thrives from it. The bears were able to achieve amazing pass and run plays just because the O-Line has been improved. Although, the O-Line is always brushed over, they are the true foundation for an offense to work.
 
 ## Keywords
 * offensive line
-* trenches
-* protection
-* stability
+* improvement
+* protect
+* foundation
